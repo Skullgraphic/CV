@@ -1,0 +1,25 @@
+@media screen and (min-width:1200px){
+  .navegation{
+    background: $aqua;
+    width: 40vh;
+    height: 100vh;
+    position: fixed;
+  }
+
+  .navegation__image{
+    margin-top: 30vh;
+    width: 50%;
+    border-radius: 100%;
+  }
+
+  .navegation__a{
+    display: block;
+    font-weight: 700;
+    color: $morado;
+    margin-top: 5%;
+  }
+
+  .contenido{
+    margin-left: 40vh;
+  }
+}

@@ -1,0 +1,24 @@
+@media only screen and (min-width: 1200px){
+  .educacion{
+    h2{
+      font-size: $x-large;
+      font-weight: 900;
+      margin-top: 15vh;
+    }
+    h3{
+      font-size:$large;
+      margin-top: 10vh;
+    }
+    p{
+      font-weight: 300;
+      margin-top: 10vh;
+    }
+    h4{
+      float: right;
+    }
+  }
+
+  hr{
+    margin-top: 20vh;
+  }
+}

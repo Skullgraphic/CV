@@ -1,0 +1,13 @@
+@import "vendors/bootstrap/bootstrap.scss";
+
+@import "abstracts/variables.scss";
+
+@import "base/base";
+@import "base/typography";
+
+@import "layout/navegation";
+@import "layout/contenido";
+@import "layout/experiencia";
+@import "layout/educacion";
+@import "layout/habilidades";
+@import "layout/contacto";

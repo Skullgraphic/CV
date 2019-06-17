@@ -1,0 +1,32 @@
+@media only screen and (min-width: 1200px){
+  .contenido{
+    margin-left: 50vh;
+    margin-right: 20vh;
+  }
+
+  .mi__nombre{
+    padding-top: 25vh;
+    font-weight: 900;
+    font-size: $large;
+  }
+
+  .mi__correo{
+    font-weight: 700;
+  }
+
+  .mi__perfil{
+    font-weight: 300;
+    font-size: $medium;
+    margin-top: 20vh;
+  }
+
+  .mi__redes{
+    font-size: $large;
+    margin-top: 10vh;
+  }
+
+  .fab{
+    color: $morado;
+  }
+
+}
